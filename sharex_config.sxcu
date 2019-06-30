@@ -1,0 +1,11 @@
+{
+  "Version": "12.4.1",
+  "Name": "Strefa 51 ShareX PHP Skrypt",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://adres_twojej_strony/sharex_upload.php?sekret=twoje_haslo",
+  "Body": "MultipartFormData",
+  "FileFormName": "fileToUpload",
+  "URL": "$json:url$",
+  "DeletionURL": "$json:del_url$"
+}
